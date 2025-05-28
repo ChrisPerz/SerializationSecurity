@@ -5,13 +5,22 @@ public class Program
 {
     public class Person
     {
-        public string Name { get; set; } = string.Empty;
-        public string Email { get; set; } = string.Empty;
-        public string Password { get; set; } = string.Empty;
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
 
     }
 
     public static string SerializeUserData(Person person){
+        if (
+            string.IsNullOrEmpty(person.Name) || 
+            string.IsNullOrEmpty(person.Email) || 
+            string.IsNullOrEmpty(person.Password)
+        )
+        {
+            Console.WriteLine("Invalid user data. All fields must be filled out. Serialization aborted");
+            return string.Empty;
+        }
         return JsonSerializer.Serialize(person);
     }
 
@@ -21,10 +30,10 @@ public class Program
         {
             Name = "John Doe",
             Email = "john@gmail.com",
-            Password = "securepassword123"
+            Password = "password123"
         };
         string serializedUser = SerializeUserData(user);
         Console.WriteLine(serializedUser);
-        // No security, without encryption or hashing, the password is stored in plain text.
+
     }
 }
