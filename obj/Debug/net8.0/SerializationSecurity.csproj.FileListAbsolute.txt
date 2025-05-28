@@ -1,0 +1,14 @@
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\obj\Debug\net8.0\SerializationSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\obj\Debug\net8.0\SerializationSecurity.AssemblyInfoInputs.cache
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\obj\Debug\net8.0\SerializationSecurity.AssemblyInfo.cs
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\obj\Debug\net8.0\SerializationSecurity.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\bin\Debug\net8.0\SerializationSecurity.exe
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\bin\Debug\net8.0\SerializationSecurity.deps.json
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\bin\Debug\net8.0\SerializationSecurity.runtimeconfig.json
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\bin\Debug\net8.0\SerializationSecurity.dll
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\bin\Debug\net8.0\SerializationSecurity.pdb
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\obj\Debug\net8.0\SerializationSecurity.dll
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\obj\Debug\net8.0\refint\SerializationSecurity.dll
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\obj\Debug\net8.0\SerializationSecurity.pdb
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\obj\Debug\net8.0\SerializationSecurity.genruntimeconfig.cache
+D:\PROGRAMACION\C#_COURSE\NET-course\SerializationSecurity\obj\Debug\net8.0\ref\SerializationSecurity.dll
